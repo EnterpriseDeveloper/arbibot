@@ -1,0 +1,348 @@
+[2019-02-05T17:03:26.327] [INFO] orders - Sell Coinbene, price:0.031063
+[2019-02-05T17:03:30.076] [INFO] orders - Sell Coinbene, price:0.031052
+[2019-02-05T17:03:32.716] [INFO] orders - Sell Coinbene, price:0.031057
+[2019-02-05T17:03:37.654] [INFO] orders - Sell Coinbene, price:0.031058
+[2019-02-05T17:03:53.894] [INFO] orders - Sell Coinbene, price:0.031046
+[2019-02-05T17:03:55.433] [INFO] orders - Sell Coinbene, price:0.031045
+[2019-02-05T17:03:59.554] [INFO] orders - Sell Coinbene, price:0.031047
+[2019-02-05T17:04:01.086] [INFO] orders - Sell Coinbene, price:0.031048
+[2019-02-05T17:04:02.651] [INFO] orders - Sell Coinbene, price:0.031049
+[2019-02-05T17:04:06.399] [INFO] orders - Sell Coinbene, price:0.031051
+[2019-02-05T17:04:13.574] [INFO] orders - Sell Coinbene, price:0.031053
+[2019-02-05T17:05:00.253] [INFO] orders - Sell Coinbene, price:0.031050
+[2019-02-05T17:05:01.819] [INFO] orders - Sell Coinbene, price:0.031044
+[2019-02-05T17:05:28.140] [INFO] orders - Sell Coinbene, price:0.031055
+[2019-02-05T17:05:36.884] [INFO] orders - Sell Coinbene, price:0.031054
+[2019-02-05T17:05:41.865] [INFO] orders - Sell Coinbene, price:0.031064
+[2019-02-05T17:05:43.395] [INFO] orders - Sell Coinbene, price:0.031056
+[2019-02-05T17:05:47.218] [INFO] orders - Sell Coinbene, price:0.031059
+[2019-02-05T17:05:49.512] [INFO] orders - Sell Coinbene, price:0.031060
+[2019-02-05T17:05:51.059] [INFO] orders - Sell Coinbene, price:0.031062
+[2019-02-05T17:06:00.495] [INFO] orders - Sell Coinbene, price:0.031061
+[2019-02-05T17:11:06.539] [INFO] orders - Sell Coinbene, price:0.031068
+[2019-02-05T17:12:11.591] [INFO] orders - Sell Coinbene, price:0.031042
+[2019-02-05T17:12:13.142] [INFO] orders - Sell Coinbene, price:0.031043
+[2019-02-05T17:12:20.240] [INFO] orders - Sell Coinbene, price:0.031039
+[2019-02-05T17:12:21.768] [INFO] orders - Sell Coinbene, price:0.031040
+[2019-02-05T17:12:23.289] [INFO] orders - Sell Coinbene, price:0.031041
+[2019-02-05T17:18:07.561] [INFO] orders - Sell Coinbene, price:0.031032
+[2019-02-05T17:18:07.932] [INFO] orders - Cancel Coinbene, price: 0.031068
+[2019-02-05T17:18:09.467] [INFO] orders - Sell Coinbene, price:0.031035
+[2019-02-05T17:18:14.341] [INFO] orders - Sell Coinbene, price:0.031029
+[2019-02-05T17:18:14.718] [INFO] orders - Cancel Coinbene, price: 0.031061
+[2019-02-05T17:18:15.091] [INFO] orders - Cancel Coinbene, price: 0.031062
+[2019-02-05T17:18:15.491] [INFO] orders - Cancel Coinbene, price: 0.031063
+[2019-02-05T17:18:33.956] [INFO] orders - Sell Coinbene, price:0.031033
+[2019-02-05T17:18:38.837] [INFO] orders - Sell Coinbene, price:0.031038
+[2019-02-05T17:18:54.335] [INFO] orders - Sell Coinbene, price:0.031031
+[2019-02-05T17:19:29.154] [INFO] orders - Sell Coinbene, price:0.031027
+[2019-02-05T17:19:29.537] [INFO] orders - Cancel Coinbene, price: 0.03106
+[2019-02-05T17:19:29.914] [INFO] orders - Cancel Coinbene, price: 0.031059
+[2019-02-05T17:19:34.866] [INFO] orders - Sell Coinbene, price:0.031028
+[2019-02-05T17:19:53.829] [INFO] orders - Sell Coinbene, price:0.031026
+[2019-02-05T17:19:54.204] [INFO] orders - Cancel Coinbene, price: 0.031058
+[2019-02-05T17:21:33.632] [INFO] orders - Sell Coinbene, price:0.031034
+[2019-02-05T17:24:09.061] [INFO] orders - Sell Coinbene, price:0.031036
+[2019-02-05T17:25:10.897] [INFO] orders - Sell Coinbene, price:0.031037
+[2019-02-05T17:25:22.477] [INFO] orders - Sell Coinbene, price:0.031030
+[2019-02-05T17:31:33.061] [INFO] orders - Sell Coinbene, price:0.031050
+[2019-02-05T17:31:38.973] [INFO] orders - Sell Coinbene, price:0.031052
+[2019-02-05T17:31:43.929] [INFO] orders - Sell Coinbene, price:0.031053
+[2019-02-05T17:31:51.194] [INFO] orders - Sell Coinbene, price:0.031055
+[2019-02-05T17:32:08.586] [INFO] orders - Sell Coinbene, price:0.031056
+[2019-02-05T17:32:30.775] [INFO] orders - Sell Coinbene, price:0.031057
+[2019-02-05T17:32:42.829] [INFO] orders - Sell Coinbene, price:0.031059
+[2019-02-05T17:32:45.440] [INFO] orders - Sell Coinbene, price:0.031060
+[2019-02-05T17:33:54.807] [INFO] orders - Sell Coinbene, price:0.031058
+[2019-02-05T17:36:27.925] [INFO] orders - Cancel Coinbene, price: 0.03106
+[2019-02-05T17:36:28.299] [INFO] orders - Cancel Coinbene, price: 0.031059
+[2019-02-05T17:36:42.880] [INFO] orders - Cancel Coinbene, price: 0.031058
+[2019-02-05T17:38:11.380] [INFO] orders - Sell Coinbene, price:0.031024
+[2019-02-05T17:38:11.757] [INFO] orders - Cancel Coinbene, price: 0.031057
+[2019-02-05T17:38:12.134] [INFO] orders - Cancel Coinbene, price: 0.031056
+[2019-02-05T17:38:15.856] [INFO] orders - Sell Coinbene, price:0.031025
+[2019-02-05T17:40:51.453] [INFO] orders - Sell Coinbene, price:0.031006
+[2019-02-05T17:40:51.834] [INFO] orders - Cancel Coinbene, price: 0.031055
+[2019-02-05T17:40:52.221] [INFO] orders - Cancel Coinbene, price: 0.031053
+[2019-02-05T17:40:52.595] [INFO] orders - Cancel Coinbene, price: 0.031052
+[2019-02-05T17:40:53.019] [INFO] orders - Cancel Coinbene, price: 0.03105
+[2019-02-05T17:40:53.392] [INFO] orders - Cancel Coinbene, price: 0.031038
+[2019-02-05T17:40:53.773] [INFO] orders - Cancel Coinbene, price: 0.031041
+[2019-02-05T17:40:54.155] [INFO] orders - Cancel Coinbene, price: 0.03104
+[2019-02-05T17:40:54.530] [INFO] orders - Cancel Coinbene, price: 0.031039
+[2019-02-05T17:40:54.915] [INFO] orders - Cancel Coinbene, price: 0.031043
+[2019-02-05T17:40:55.290] [INFO] orders - Cancel Coinbene, price: 0.031042
+[2019-02-05T17:40:55.663] [INFO] orders - Cancel Coinbene, price: 0.031044
+[2019-02-05T17:40:56.036] [INFO] orders - Cancel Coinbene, price: 0.031049
+[2019-02-05T17:40:56.415] [INFO] orders - Cancel Coinbene, price: 0.031048
+[2019-02-05T17:40:56.799] [INFO] orders - Cancel Coinbene, price: 0.031047
+[2019-02-05T17:40:57.188] [INFO] orders - Cancel Coinbene, price: 0.031045
+[2019-02-05T17:40:57.575] [INFO] orders - Cancel Coinbene, price: 0.031046
+[2019-02-05T17:41:00.244] [INFO] orders - Sell Coinbene, price:0.031011
+[2019-02-05T17:41:06.231] [INFO] orders - Sell Coinbene, price:0.031003
+[2019-02-05T17:41:06.617] [INFO] orders - Cancel Coinbene, price: 0.031037
+[2019-02-05T17:41:06.998] [INFO] orders - Cancel Coinbene, price: 0.031036
+[2019-02-05T17:41:07.372] [INFO] orders - Cancel Coinbene, price: 0.031035
+[2019-02-05T17:41:18.822] [INFO] orders - Sell Coinbene, price:0.031004
+[2019-02-05T17:41:45.175] [INFO] orders - Sell Coinbene, price:0.031000
+[2019-02-05T17:41:45.550] [INFO] orders - Cancel Coinbene, price: 0.031034
+[2019-02-05T17:41:45.929] [INFO] orders - Cancel Coinbene, price: 0.031033
+[2019-02-05T17:41:46.307] [INFO] orders - Cancel Coinbene, price: 0.031032
+[2019-02-05T17:41:47.831] [INFO] orders - Sell Coinbene, price:0.031001
+[2019-02-05T17:41:52.865] [INFO] orders - Sell Coinbene, price:0.031002
+[2019-02-05T17:42:18.950] [INFO] orders - Sell Coinbene, price:0.030999
+[2019-02-05T17:42:19.328] [INFO] orders - Cancel Coinbene, price: 0.031031
+[2019-02-05T17:42:40.212] [INFO] orders - Sell Coinbene, price:0.031010
+[2019-02-05T17:44:00.860] [INFO] orders - Sell Coinbene, price:0.031005
+[2019-02-05T17:44:47.870] [INFO] orders - Sell Coinbene, price:0.031013
+[2019-02-05T17:44:50.529] [INFO] orders - Sell Coinbene, price:0.031014
+[2019-02-05T17:44:55.286] [INFO] orders - Sell Coinbene, price:0.031019
+[2019-02-05T17:45:29.739] [INFO] orders - Sell Coinbene, price:0.031007
+[2019-02-05T17:45:41.395] [INFO] orders - Sell Coinbene, price:0.031008
+[2019-02-05T17:45:50.917] [INFO] orders - Sell Coinbene, price:0.031012
+[2019-02-05T17:45:55.920] [INFO] orders - Sell Coinbene, price:0.031016
+[2019-02-05T17:45:57.513] [INFO] orders - Sell Coinbene, price:0.031017
+[2019-02-05T17:46:00.258] [INFO] orders - Sell Coinbene, price:0.031018
+[2019-02-05T17:46:05.350] [INFO] orders - Sell Coinbene, price:0.031015
+[2019-02-05T17:46:12.725] [INFO] orders - Sell Coinbene, price:0.031020
+[2019-02-05T17:46:18.987] [INFO] orders - Sell Coinbene, price:0.031023
+[2019-02-05T17:47:32.286] [INFO] orders - Sell Coinbene, price:0.031022
+[2019-02-05T17:48:14.915] [INFO] orders - Sell Coinbene, price:0.031019
+[2019-02-05T17:48:18.749] [INFO] orders - Sell Coinbene, price:0.031009
+[2019-02-05T17:49:21.612] [INFO] orders - Sell Coinbene, price:0.031016
+[2019-02-05T17:50:30.923] [INFO] orders - Sell Coinbene, price:0.031018
+[2019-02-05T17:50:35.095] [INFO] orders - Sell Coinbene, price:0.031017
+[2019-02-05T17:50:38.747] [INFO] orders - Sell Coinbene, price:0.031021
+[2019-02-05T17:50:56.385] [INFO] orders - Sell Coinbene, price:0.031024
+[2019-02-05T17:51:16.589] [INFO] orders - Sell Coinbene, price:0.031020
+[2019-02-05T17:51:35.196] [INFO] orders - Sell Coinbene, price:0.031015
+[2019-02-07T11:40:59.364] [INFO] orders - Sell Coinbene, price:0.030711
+[2019-02-07T11:41:06.319] [INFO] orders - Sell Coinbene, price:0.030712
+[2019-02-07T11:41:34.173] [INFO] orders - Sell Coinbene, price:0.030709
+[2019-02-07T11:41:35.497] [INFO] orders - Sell Coinbene, price:0.030706
+[2019-02-07T11:41:36.812] [INFO] orders - Sell Coinbene, price:0.030705
+[2019-02-07T11:41:38.150] [INFO] orders - Sell Coinbene, price:0.030704
+[2019-02-07T11:41:38.528] [INFO] orders - Cancel Coinbene, price: 0.030712
+[2019-02-07T11:41:52.460] [INFO] orders - Sell Coinbene, price:0.030713
+[2019-02-07T11:41:58.237] [INFO] orders - Cancel Coinbene, price: 0.030713
+[2019-02-07T11:42:04.041] [INFO] orders - Sell Coinbene, price:0.030707
+[2019-02-07T11:42:29.809] [INFO] orders - Sell Coinbene, price:0.030713
+[2019-02-07T11:42:32.939] [INFO] orders - Sell Coinbene, price:0.030708
+[2019-02-07T11:42:53.373] [INFO] orders - Sell Coinbene, price:0.030712
+[2019-02-07T11:43:08.767] [INFO] orders - Sell Coinbene, price:0.030714
+[2019-02-07T11:43:29.829] [INFO] orders - Sell Coinbene, price:0.030710
+[2019-02-07T11:43:49.398] [INFO] orders - Sell Coinbene, price:0.030719
+[2019-02-07T11:43:55.147] [INFO] orders - Cancel Coinbene, price: 0.030719
+[2019-02-07T11:44:12.740] [INFO] orders - Sell Coinbene, price:0.030715
+[2019-02-07T11:44:15.902] [INFO] orders - Sell Coinbene, price:0.030723
+[2019-02-07T11:44:17.172] [INFO] orders - Cancel Coinbene, price: 0.030723
+[2019-02-07T11:44:34.685] [INFO] orders - Sell Coinbene, price:0.030735
+[2019-02-07T11:44:36.001] [INFO] orders - Sell Coinbene, price:0.030718
+[2019-02-07T11:44:36.378] [INFO] orders - Cancel Coinbene, price: 0.030735
+[2019-02-07T11:44:56.632] [INFO] orders - Sell Coinbene, price:0.030716
+[2019-02-07T11:45:01.604] [INFO] orders - Sell Coinbene, price:0.030717
+[2019-02-07T11:45:46.009] [INFO] orders - Sell Coinbene, price:0.030719
+[2019-02-07T11:45:49.142] [INFO] orders - Sell Coinbene, price:0.030720
+[2019-02-07T11:45:54.956] [INFO] orders - Sell Coinbene, price:0.030729
+[2019-02-07T11:45:57.114] [INFO] orders - Cancel Coinbene, price: 0.030729
+[2019-02-07T11:45:58.468] [INFO] orders - Sell Coinbene, price:0.030728
+[2019-02-07T11:45:59.763] [INFO] orders - Cancel Coinbene, price: 0.030728
+[2019-02-07T11:46:01.101] [INFO] orders - Sell Coinbene, price:0.030726
+[2019-02-07T11:46:02.377] [INFO] orders - Cancel Coinbene, price: 0.030726
+[2019-02-07T11:46:03.690] [INFO] orders - Sell Coinbene, price:0.030725
+[2019-02-07T11:46:22.344] [INFO] orders - Sell Coinbene, price:0.030724
+[2019-02-07T11:46:31.970] [INFO] orders - Cancel Coinbene, price: 0.030724
+[2019-02-07T11:46:33.346] [INFO] orders - Cancel Coinbene, price: 0.030725
+[2019-02-07T11:46:34.623] [INFO] orders - Cancel Coinbene, price: 0.03072
+[2019-02-07T11:46:35.059] [INFO] orders - Cancel Coinbene, price: 0.030719
+[2019-02-07T11:46:36.343] [INFO] orders - Cancel Coinbene, price: 0.030717
+[2019-02-07T11:46:36.721] [INFO] orders - Cancel Coinbene, price: 0.030716
+[2019-02-07T11:46:37.103] [INFO] orders - Cancel Coinbene, price: 0.030718
+[2019-02-07T11:46:37.487] [INFO] orders - Cancel Coinbene, price: 0.030715
+[2019-02-07T11:46:37.875] [INFO] orders - Cancel Coinbene, price: 0.030714
+[2019-02-07T11:46:57.264] [INFO] orders - Sell Coinbene, price:0.030717
+[2019-02-07T11:47:12.970] [INFO] orders - Sell Coinbene, price:0.030714
+[2019-02-07T11:47:16.096] [INFO] orders - Sell Coinbene, price:0.030715
+[2019-02-07T11:47:20.986] [INFO] orders - Sell Coinbene, price:0.030716
+[2019-02-07T11:47:26.358] [INFO] orders - Sell Coinbene, price:0.030718
+[2019-02-07T11:47:42.128] [INFO] orders - Sell Coinbene, price:0.030719
+[2019-02-07T11:47:46.485] [INFO] orders - Sell Coinbene, price:0.030722
+[2019-02-07T11:48:21.727] [INFO] orders - Sell Coinbene, price:0.030724
+[2019-02-07T11:48:32.400] [INFO] orders - Sell Coinbene, price:0.030723
+[2019-02-07T11:48:45.593] [INFO] orders - Sell Coinbene, price:0.030725
+[2019-02-07T11:49:06.847] [INFO] orders - Sell Coinbene, price:0.030727
+[2019-02-07T11:49:14.463] [INFO] orders - Sell Coinbene, price:0.030728
+[2019-02-07T11:49:30.307] [INFO] orders - Sell Coinbene, price:0.030721
+[2019-02-07T11:49:46.254] [INFO] orders - Sell Coinbene, price:0.030736
+[2019-02-07T11:49:49.377] [INFO] orders - Sell Coinbene, price:0.030737
+[2019-02-07T11:49:50.666] [INFO] orders - Cancel Coinbene, price: 0.030737
+[2019-02-07T11:49:51.046] [INFO] orders - Cancel Coinbene, price: 0.030736
+[2019-02-07T11:49:52.361] [INFO] orders - Sell Coinbene, price:0.030732
+[2019-02-07T11:49:53.704] [INFO] orders - Sell Coinbene, price:0.030734
+[2019-02-07T11:49:55.035] [INFO] orders - Sell Coinbene, price:0.030733
+[2019-02-07T11:50:08.171] [INFO] orders - Sell Coinbene, price:0.030730
+[2019-02-07T11:50:13.229] [INFO] orders - Sell Coinbene, price:0.030731
+[2019-02-07T11:50:45.587] [INFO] orders - Sell Coinbene, price:0.030726
+[2019-02-07T11:50:45.963] [INFO] orders - Cancel Coinbene, price: 0.030734
+[2019-02-07T11:50:49.110] [INFO] orders - Sell Coinbene, price:0.030729
+[2019-02-07T11:50:55.158] [INFO] orders - Cancel Coinbene, price: 0.030729
+[2019-02-07T11:50:55.536] [INFO] orders - Cancel Coinbene, price: 0.030726
+[2019-02-07T11:50:55.915] [INFO] orders - Cancel Coinbene, price: 0.030731
+[2019-02-07T11:50:56.293] [INFO] orders - Cancel Coinbene, price: 0.03073
+[2019-02-07T11:50:56.667] [INFO] orders - Cancel Coinbene, price: 0.030733
+[2019-02-07T11:50:57.041] [INFO] orders - Cancel Coinbene, price: 0.030732
+[2019-02-07T11:50:57.418] [INFO] orders - Cancel Coinbene, price: 0.030721
+[2019-02-07T11:50:57.793] [INFO] orders - Cancel Coinbene, price: 0.030728
+[2019-02-07T11:50:58.167] [INFO] orders - Cancel Coinbene, price: 0.030727
+[2019-02-07T11:50:58.539] [INFO] orders - Cancel Coinbene, price: 0.030725
+[2019-02-07T11:50:59.002] [INFO] orders - Cancel Coinbene, price: 0.030723
+[2019-02-07T11:50:59.384] [INFO] orders - Cancel Coinbene, price: 0.030724
+[2019-02-07T11:50:59.760] [INFO] orders - Cancel Coinbene, price: 0.030722
+[2019-02-07T11:51:18.388] [INFO] orders - Cancel Coinbene, price: 0.030719
+[2019-02-07T11:51:18.759] [INFO] orders - Cancel Coinbene, price: 0.030718
+[2019-02-07T11:51:19.146] [INFO] orders - Cancel Coinbene, price: 0.030716
+[2019-02-07T11:51:19.531] [INFO] orders - Cancel Coinbene, price: 0.030715
+[2019-02-07T11:51:19.904] [INFO] orders - Cancel Coinbene, price: 0.030714
+[2019-02-07T11:51:20.287] [INFO] orders - Cancel Coinbene, price: 0.030717
+[2019-02-07T11:51:25.229] [INFO] orders - Cancel Coinbene, price: 0.030712
+[2019-02-07T11:51:25.612] [INFO] orders - Cancel Coinbene, price: 0.030713
+[2019-02-07T11:52:27.655] [INFO] orders - Sell Coinbene, price:0.030702
+[2019-02-07T11:52:28.050] [INFO] orders - Cancel Coinbene, price: 0.03071
+[2019-02-07T11:52:28.430] [INFO] orders - Cancel Coinbene, price: 0.030711
+[2019-02-07T11:53:28.630] [INFO] orders - Sell Coinbene, price:0.030699
+[2019-02-07T11:53:29.002] [INFO] orders - Cancel Coinbene, price: 0.030708
+[2019-02-07T11:53:29.377] [INFO] orders - Cancel Coinbene, price: 0.030707
+[2019-02-07T11:53:29.752] [INFO] orders - Cancel Coinbene, price: 0.030709
+[2019-02-07T11:53:31.063] [INFO] orders - Sell Coinbene, price:0.030698
+[2019-02-07T11:53:31.439] [INFO] orders - Cancel Coinbene, price: 0.030706
+[2019-02-07T11:53:54.786] [INFO] orders - Sell Coinbene, price:0.030703
+[2019-02-07T11:53:56.102] [INFO] orders - Sell Coinbene, price:0.030701
+[2019-02-07T11:54:41.142] [INFO] orders - Sell Coinbene, price:0.030706
+[2019-02-07T11:55:07.334] [INFO] orders - Sell Coinbene, price:0.030713
+[2019-02-07T11:55:12.387] [INFO] orders - Sell Coinbene, price:0.030696
+[2019-02-07T11:55:12.762] [INFO] orders - Cancel Coinbene, price: 0.030713
+[2019-02-07T11:55:13.142] [INFO] orders - Cancel Coinbene, price: 0.030706
+[2019-02-07T11:55:13.513] [INFO] orders - Cancel Coinbene, price: 0.030704
+[2019-02-07T11:55:13.888] [INFO] orders - Cancel Coinbene, price: 0.030705
+[2019-02-07T11:55:17.904] [INFO] orders - Sell Coinbene, price:0.030709
+[2019-02-07T11:55:24.660] [INFO] orders - Sell Coinbene, price:0.030704
+[2019-02-07T11:55:34.752] [INFO] orders - Sell Coinbene, price:0.030708
+[2019-02-07T11:55:47.986] [INFO] orders - Cancel Coinbene, price: 0.030709
+[2019-02-07T11:56:13.731] [INFO] orders - Sell Coinbene, price:0.030683
+[2019-02-07T11:56:14.184] [INFO] orders - Cancel Coinbene, price: 0.030708
+[2019-02-07T11:56:14.570] [INFO] orders - Cancel Coinbene, price: 0.030704
+[2019-02-07T11:56:14.945] [INFO] orders - Cancel Coinbene, price: 0.030696
+[2019-02-07T11:56:15.325] [INFO] orders - Cancel Coinbene, price: 0.030701
+[2019-02-07T11:56:15.707] [INFO] orders - Cancel Coinbene, price: 0.030703
+[2019-02-07T11:56:16.086] [INFO] orders - Cancel Coinbene, price: 0.030698
+[2019-02-07T11:56:16.466] [INFO] orders - Cancel Coinbene, price: 0.030699
+[2019-02-07T11:56:16.837] [INFO] orders - Cancel Coinbene, price: 0.030702
+[2019-02-07T11:56:33.677] [INFO] orders - Sell Coinbene, price:0.030684
+[2019-02-07T11:56:34.993] [INFO] orders - Sell Coinbene, price:0.030685
+[2019-02-07T11:56:38.361] [INFO] orders - Sell Coinbene, price:0.030693
+[2019-02-07T11:56:39.705] [INFO] orders - Sell Coinbene, price:0.030694
+[2019-02-07T11:56:43.957] [INFO] orders - Sell Coinbene, price:0.030696
+[2019-02-07T11:56:50.825] [INFO] orders - Sell Coinbene, price:0.030697
+[2019-02-07T11:57:29.239] [INFO] orders - Sell Coinbene, price:0.030704
+[2019-02-07T11:57:32.527] [INFO] orders - Sell Coinbene, price:0.030705
+[2019-02-07T11:57:33.901] [INFO] orders - Sell Coinbene, price:0.030698
+[2019-02-07T11:57:37.938] [INFO] orders - Cancel Coinbene, price: 0.030705
+[2019-02-07T11:57:46.587] [INFO] orders - Sell Coinbene, price:0.030699
+[2019-02-07T11:57:50.610] [INFO] orders - Sell Coinbene, price:0.030700
+[2019-02-07T11:57:55.688] [INFO] orders - Sell Coinbene, price:0.030701
+[2019-02-07T11:58:07.435] [INFO] orders - Sell Coinbene, price:0.030703
+[2019-02-07T11:58:12.450] [INFO] orders - Sell Coinbene, price:0.030707
+[2019-02-07T11:58:39.094] [INFO] orders - Sell Coinbene, price:0.030705
+[2019-02-07T11:58:45.002] [INFO] orders - Sell Coinbene, price:0.030710
+[2019-02-07T11:58:56.367] [INFO] orders - Sell Coinbene, price:0.030715
+[2019-02-07T12:00:10.354] [INFO] orders - Cancel Coinbene, price: 0.030715
+[2019-02-07T12:00:16.166] [INFO] orders - Sell Coinbene, price:0.030706
+[2019-02-07T12:00:24.749] [INFO] orders - Sell Coinbene, price:0.030712
+[2019-02-07T12:00:36.077] [INFO] orders - Sell Coinbene, price:0.030715
+[2019-02-07T12:00:37.364] [INFO] orders - Cancel Coinbene, price: 0.030715
+[2019-02-07T12:00:43.228] [INFO] orders - Sell Coinbene, price:0.030715
+[2019-02-07T12:00:45.401] [INFO] orders - Cancel Coinbene, price: 0.030715
+[2019-02-07T12:01:02.319] [INFO] orders - Sell Coinbene, price:0.030702
+[2019-02-07T12:01:02.696] [INFO] orders - Cancel Coinbene, price: 0.030712
+[2019-02-07T12:01:03.386] [INFO] orders - Cancel Coinbene, price: 0.03071
+[2019-02-07T12:01:16.551] [INFO] orders - Sell Coinbene, price:0.030708
+[2019-02-07T12:01:29.224] [INFO] orders - Sell Coinbene, price:0.030710
+[2019-02-07T12:01:32.440] [INFO] orders - Sell Coinbene, price:0.030716
+[2019-02-07T12:01:37.876] [INFO] orders - Sell Coinbene, price:0.030717
+[2019-02-07T12:01:39.289] [INFO] orders - Sell Coinbene, price:0.030711
+[2019-02-07T12:01:47.502] [INFO] orders - Sell Coinbene, price:0.030715
+[2019-02-07T12:01:53.441] [INFO] orders - Sell Coinbene, price:0.030718
+[2019-02-07T12:01:56.563] [INFO] orders - Sell Coinbene, price:0.030721
+[2019-02-07T12:01:57.899] [INFO] orders - Sell Coinbene, price:0.030723
+[2019-02-07T12:02:00.112] [INFO] orders - Sell Coinbene, price:0.030722
+[2019-02-07T12:02:11.722] [INFO] orders - Cancel Coinbene, price: 0.030723
+[2019-02-07T12:02:25.093] [INFO] orders - Sell Coinbene, price:0.030720
+[2019-02-07T12:02:52.804] [INFO] orders - Sell Coinbene, price:0.030723
+[2019-02-07T12:02:57.778] [INFO] orders - Sell Coinbene, price:0.030724
+[2019-02-07T12:02:59.958] [INFO] orders - Cancel Coinbene, price: 0.030724
+[2019-02-07T12:03:00.577] [INFO] orders - Cancel Coinbene, price: 0.030723
+[2019-02-07T12:03:20.109] [INFO] orders - Sell Coinbene, price:0.030728
+[2019-02-07T12:03:21.436] [INFO] orders - Sell Coinbene, price:0.030724
+[2019-02-07T12:03:27.269] [INFO] orders - Sell Coinbene, price:0.030727
+[2019-02-07T12:03:46.607] [INFO] orders - Cancel Coinbene, price: 0.030727
+[2019-02-07T12:03:46.986] [INFO] orders - Cancel Coinbene, price: 0.030724
+[2019-02-07T12:03:47.359] [INFO] orders - Cancel Coinbene, price: 0.030728
+[2019-02-07T12:04:09.403] [INFO] orders - Sell Coinbene, price:0.030725
+[2019-02-07T12:04:11.647] [INFO] orders - Sell Coinbene, price:0.030719
+[2019-02-07T12:04:14.826] [INFO] orders - Sell Coinbene, price:0.030723
+[2019-02-07T12:04:19.762] [INFO] orders - Sell Coinbene, price:0.030724
+[2019-02-07T12:04:21.079] [INFO] orders - Sell Coinbene, price:0.030734
+[2019-02-07T12:04:24.183] [INFO] orders - Sell Coinbene, price:0.030735
+[2019-02-07T12:04:27.340] [INFO] orders - Sell Coinbene, price:0.030736
+[2019-02-07T12:04:28.677] [INFO] orders - Sell Coinbene, price:0.030737
+[2019-02-07T12:04:30.038] [INFO] orders - Sell Coinbene, price:0.030738
+[2019-02-07T12:04:32.279] [INFO] orders - Sell Coinbene, price:0.030740
+[2019-02-07T12:04:33.630] [INFO] orders - Sell Coinbene, price:0.030744
+[2019-02-07T12:04:56.032] [INFO] orders - Sell Coinbene, price:0.030745
+[2019-02-07T12:05:00.927] [INFO] orders - Sell Coinbene, price:0.030749
+[2019-02-07T12:05:22.574] [INFO] orders - Sell Coinbene, price:0.030752
+[2019-02-07T12:05:32.025] [INFO] orders - Sell Coinbene, price:0.030746
+[2019-02-07T12:05:46.883] [INFO] orders - Cancel Coinbene, price: 0.030752
+[2019-02-07T12:06:10.061] [INFO] orders - Sell Coinbene, price:0.030742
+[2019-02-07T12:06:12.288] [INFO] orders - Sell Coinbene, price:0.030748
+[2019-02-07T12:06:13.633] [INFO] orders - Sell Coinbene, price:0.030741
+[2019-02-07T12:06:14.013] [INFO] orders - Cancel Coinbene, price: 0.030749
+[2019-02-07T12:06:20.748] [INFO] orders - Sell Coinbene, price:0.030730
+[2019-02-07T12:06:21.127] [INFO] orders - Cancel Coinbene, price: 0.030741
+[2019-02-07T12:06:21.500] [INFO] orders - Cancel Coinbene, price: 0.030748
+[2019-02-07T12:06:21.878] [INFO] orders - Cancel Coinbene, price: 0.030742
+[2019-02-07T12:06:22.246] [INFO] orders - Cancel Coinbene, price: 0.030746
+[2019-02-07T12:06:22.622] [INFO] orders - Cancel Coinbene, price: 0.030745
+[2019-02-07T12:06:23.003] [INFO] orders - Cancel Coinbene, price: 0.030744
+[2019-02-07T12:06:23.378] [INFO] orders - Cancel Coinbene, price: 0.03074
+[2019-02-07T12:06:23.753] [INFO] orders - Cancel Coinbene, price: 0.030738
+[2019-02-07T12:06:36.888] [INFO] orders - Cancel Coinbene, price: 0.03073
+[2019-02-07T12:06:37.301] [INFO] orders - Cancel Coinbene, price: 0.030737
+[2019-02-07T12:06:37.679] [INFO] orders - Cancel Coinbene, price: 0.030736
+[2019-02-07T12:06:38.055] [INFO] orders - Cancel Coinbene, price: 0.030735
+[2019-02-07T12:06:39.439] [INFO] orders - Cancel Coinbene, price: 0.030734
+[2019-02-07T12:07:00.521] [INFO] orders - Sell Coinbene, price:0.030727
+[2019-02-07T12:07:04.547] [INFO] orders - Sell Coinbene, price:0.030726
+[2019-02-07T12:07:07.621] [INFO] orders - Cancel Coinbene, price: 0.030727
+[2019-02-07T12:08:17.264] [INFO] orders - Sell Coinbene, price:0.030729
+[2019-02-07T12:08:26.685] [INFO] orders - Sell Coinbene, price:0.030731
+[2019-02-07T12:08:30.806] [INFO] orders - Sell Coinbene, price:0.030732
+[2019-02-07T12:08:38.556] [INFO] orders - Sell Coinbene, price:0.030728
+[2019-02-07T12:08:50.801] [INFO] orders - Sell Coinbene, price:0.030738
+[2019-02-07T12:08:52.125] [INFO] orders - Sell Coinbene, price:0.030739
+[2019-02-07T12:08:53.562] [INFO] orders - Sell Coinbene, price:0.030734
+[2019-02-07T12:08:59.758] [INFO] orders - Sell Coinbene, price:0.030730
+[2019-02-07T12:09:00.141] [INFO] orders - Cancel Coinbene, price: 0.030739
+[2019-02-07T12:09:00.518] [INFO] orders - Cancel Coinbene, price: 0.030738
+[2019-02-07T12:09:16.295] [INFO] orders - Sell Coinbene, price:0.030736
+[2019-02-07T12:09:37.778] [INFO] orders - Sell Coinbene, price:0.030735
+[2019-02-07T12:09:44.587] [INFO] orders - Sell Coinbene, price:0.030738
+[2019-02-07T12:09:46.811] [INFO] orders - Sell Coinbene, price:0.030739
+[2019-02-07T12:10:16.357] [INFO] orders - Sell Coinbene, price:0.030741
+[2019-02-07T12:10:20.377] [INFO] orders - Sell Coinbene, price:0.030742
+[2019-02-07T12:11:00.546] [INFO] orders - Sell Coinbene, price:0.030743
+[2019-02-07T12:11:02.783] [INFO] orders - Sell Coinbene, price:0.030744
+[2019-02-07T12:11:09.487] [INFO] orders - Sell Coinbene, price:0.030747
+[2019-02-07T12:11:10.872] [INFO] orders - Sell Coinbene, price:0.030748
+[2019-02-07T12:11:12.191] [INFO] orders - Sell Coinbene, price:0.030749
+[2019-02-07T12:11:13.519] [INFO] orders - Sell Coinbene, price:0.030750

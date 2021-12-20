@@ -1,0 +1,104 @@
+[2019-02-04T20:54:57.996] [INFO] info - Buy Binance,[object Object]  volume:0.1
+[2019-02-05T05:25:01.328] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T05:25:14.929] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T05:25:33.434] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T05:25:39.177] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T05:25:41.026] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T05:25:55.745] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T05:26:13.100] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T05:26:27.105] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T05:26:47.167] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T05:26:54.144] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T05:27:02.664] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T05:27:07.167] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T05:27:10.348] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T13:08:58.091] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T13:09:04.169] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T13:09:16.782] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T13:09:20.172] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T13:10:49.808] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T13:11:00.232] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T13:11:18.327] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T13:11:25.649] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T13:19:05.328] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T13:19:08.707] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T13:19:35.282] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T13:19:37.394] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T13:22:10.776] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T13:22:12.620] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T13:31:59.787] [INFO] info - Buy Binance,[object Object]  volume:1.16
+[2019-02-05T13:57:23.366] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T14:10:11.366] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T14:11:17.142] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T14:18:59.888] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T15:27:23.151] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T15:37:39.467] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T15:52:11.058] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T16:19:52.733] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T19:18:05.739] [INFO] info - Buy Binance,[object Object]  volume:0.2
+[2019-02-05T19:45:26.270] [INFO] info - Buy Binance,[object Object]  volume:0.52
+[2019-02-05T19:46:04.989] [INFO] info - Buy Binance,[object Object]  volume:0.08
+[2019-02-05T20:03:02.570] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-05T20:03:13.415] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-06T00:02:43.357] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-06T17:07:22.442] [INFO] info - Buy Binance,[object Object]  volume:0.56
+[2019-02-06T17:17:27.664] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-06T17:24:35.471] [INFO] info - Buy Binance,[object Object]  volume:0.04
+[2019-02-07T17:42:03.955] [INFO] info - Sell Binance price:0.03099600, volume:0.04 , Coinbene price: 0.031022, profit: 0.0838817911988699
+[2019-02-07T17:52:30.494] [INFO] info - Sell Binance price:0.03096000, volume:0.08 , Coinbene price: 0.0310065, profit: 0.1501937984496057
+[2019-02-07T17:53:50.552] [INFO] info - Sell Binance price:0.03095900, volume:0.08 , Coinbene price: 0.0310055, profit: 0.15019864982718412
+[2019-02-07T19:07:53.663] [INFO] info - Sell Binance price:0.03083200, volume:0.88 , Coinbene price: 0.014047954545454544, profit: -54.43709605132803
+[2019-02-08T22:58:23.840] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03181100, Min. Profit: 0.003%, Limits: 0.125%, 0.150%, 0.200%
+[2019-02-08T23:00:30.934] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03212400, Min. Profit: 0.121%, Limits: 0.125%, 0.150%, 0.200%
+[2019-02-08T23:02:49.464] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03217100, Min. Profit: -0.016%, Limits: 0.125%, 0.150%, 0.200%
+[2019-02-08T23:22:33.393] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03209800, Min. Profit: 0.143%, Limits: 0.125%, 0.150%, 0.200%
+[2019-02-08T23:22:36.647] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03209700, Min. Profit: 0.156%, Limits: 0.125%, 0.150%, 0.200%
+[2019-02-08T23:22:40.561] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03209400, Min. Profit: 0.159%, Limits: 0.125%, 0.150%, 0.200%
+[2019-02-08T23:22:45.596] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03208900, Min. Profit: 0.156%, Limits: 0.125%, 0.150%, 0.200%
+[2019-02-08T23:22:48.552] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03209200, Min. Profit: 0.146%, Limits: 0.125%, 0.150%, 0.200%
+[2019-02-08T23:22:59.876] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03208500, Min. Profit: 0.159%, Limits: 0.125%, 0.150%, 0.200%
+[2019-02-08T23:35:41.352] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03269400, Min. Profit: 0.168%, Limits: 0.125%, 0.150%, 0.200%
+[2019-02-08T23:36:20.414] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03267500, Min. Profit: 0.174%, Limits: 0.125%, 0.150%, 0.200%
+[2019-02-08T23:36:58.597] [INFO] info - SELL LIMIT. Vol: 0.08, Binance Buy: 0.03269100, Min. Profit: 0.135%, Limits: 0.125%, 0.150%, 0.200%
+[2019-02-08T23:47:42.940] [INFO] info - SELL LIMIT. Vol: 0.16, Binance Buy: 0.03289200, Min. Profit: 0.261%, Limits: 0.125%, 0.150%, 0.200%
+[2019-02-08T23:47:54.124] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03288600, Min. Profit: 0.198%, Limits: 0.125%, 0.150%, 0.200%
+[2019-02-08T23:48:31.655] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03297100, Min. Profit: 0.088%, Limits: 0.125%, 0.150%, 0.200%
+[2019-02-08T23:53:04.707] [INFO] info - SELL LIMIT. Vol: 0.12, Binance Buy: 0.03290000, Min. Profit: 0.119%, Limits: 0.125%, 0.150%, 0.200%
+[2019-02-08T23:54:11.318] [INFO] info - SELL LIMIT. Vol: 0.12, Binance Buy: 0.03287300, Min. Profit: 0.158%, Limits: 0.125%, 0.150%, 0.200%
+[2019-02-08T23:59:20.872] [INFO] info - SELL LIMIT. Vol: 0.08, Binance Buy: 0.03245500, Min. Profit: 0.188%, Limits: 0.125%, 0.150%, 0.200%
+[2019-02-08T23:59:38.252] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03239800, Min. Profit: 0.275%, Limits: 0.125%, 0.150%, 0.200%
+[2019-02-09T00:02:25.823] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03229200, Min. Profit: 0.139%, Limits: 0.125%, 0.150%, 0.200%
+[2019-02-09T00:14:33.288] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03255900, Min. Profit: 0.206%, Limits: 0.125%, 0.150%, 0.200%
+[2019-02-09T03:05:52.839] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03258000, Min. Profit: 0.178%, Limits: 0.125%, 0.150%, 0.200%
+[2019-02-09T03:05:54.669] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03257900, Min. Profit: 0.181%, Limits: 0.125%, 0.150%, 0.200%
+[2019-02-09T03:05:56.381] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03258000, Min. Profit: 0.178%, Limits: 0.125%, 0.150%, 0.200%
+[2019-02-09T03:05:57.949] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03258000, Min. Profit: 0.178%, Limits: 0.125%, 0.150%, 0.200%
+[2019-02-09T03:05:59.692] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03258000, Min. Profit: 0.178%, Limits: 0.125%, 0.150%, 0.200%
+[2019-02-09T03:06:01.328] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03257000, Min. Profit: 0.209%, Limits: 0.125%, 0.150%, 0.200%
+[2019-02-09T03:06:02.882] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03255400, Min. Profit: 0.258%, Limits: 0.125%, 0.150%, 0.200%
+[2019-02-09T03:06:04.439] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03255200, Min. Profit: 0.264%, Limits: 0.125%, 0.150%, 0.200%
+[2019-02-09T03:52:49.127] [INFO] info - SELL LIMIT. Vol: 0.2, Binance Buy: 0.03246400, Min. Profit: 0.052%, Limits: 0.125%, 0.150%, 0.200%
+[2019-02-09T11:17:07.562] [INFO] info - SELL LIMIT. Vol: 0.08, Binance Buy: 0.03248200, Min. Profit: 0.160%, Limits: 0.125%, 0.150%, 0.200%
+[2019-02-10T20:46:40.778] [INFO] info - SELL LIMIT. Vol: 0.12, Binance Buy: 0.03217900%, Limits: 0.125%, 0.150%, 0.200%, Funds. ETH: 24.75 (BB: 9.34, CB :15.41BTC: 1.39 (BB: 1.18, CB: NaN
+[2019-02-10T20:46:43.246] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03217800%, Limits: 0.125%, 0.150%, 0.200%, Funds. ETH: 24.75 (BB: 9.38, CB :15.37BTC: 1.39 (BB: 1.18, CB: NaN. Change. ETH:0, BTC: 0.0000020399999998144125
+[2019-02-10T20:57:51.736] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03224300%, Limits: 0.125%, 0.150%, 0.200%, Funds. ETH: 24.51 (BB: 9.34, CB :15.170BTC: 1.40 (BB: 1.18, CB: NaN
+[2019-02-10T20:58:44.112] [INFO] info - SELL LIMIT. Vol: 0.08, Binance Buy: 0.03224000%, Limits: 0.125%, 0.150%, 0.200%, Funds. ETH: 24.51 (BB: 9.42, CB :15.090BTC: 1.40 (BB: 1.18, CB: NaN. Change. ETH:0, BTC: 0.0000030799999999331362
+[2019-02-10T21:03:01.200] [INFO] info - SELL LIMIT. Vol: 0.08, Binance Buy: 0.03222300%, Limits: 0.125%, 0.150%, 0.200%, Funds. ETH: 24.51 (BB: 9.50, CB :15.010BTC: 1.40 (BB: 1.18, CB: NaN. Change. ETH:0, BTC: 0.0000037600000000193035
+[2019-02-10T21:03:03.323] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03222400%, Limits: 0.125%, 0.150%, 0.200%, Funds. ETH: 24.51 (BB: 9.54, CB :14.970BTC: 1.40 (BB: 1.18, CB: NaN. Change. ETH:0, BTC: 0.0000018799999998986294
+[2019-02-10T21:05:15.849] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03220200%, Limits: 0.125%, 0.150%, 0.200%, Funds. ETH: 24.51 (BB: 9.58, CB :14.930BTC: 1.40 (BB: 1.18, CB: NaN. Change. ETH:0, BTC: 0.000001880000000120674
+[2019-02-10T21:42:27.700] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03223500%, Limits: 0.125%, 0.150%, 0.200%, Funds. ETH: 24.51 (BB: 9.54, CB :14.97NaNBTC: 1.40 (BB: 1.18, CB: 0.22
+[2019-02-10T22:08:31.911] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03226900%, Limits: 0.125%, 0.150%, 0.200%, Funds. ETH: 24.55 (BB: 9.58, CB :14.97, BTC: 1.40 (BB: 1.18, CB: 0.22 )
+[2019-02-10T22:13:36.603] [INFO] info - SELL LIMIT. Vol: 0.08, Binance Buy: 0.03225900%, Limits: 0.125%, 0.150%, 0.200%, Funds. ETH: 24.51 (BB: 9.66, CB :14.85, BTC: 1.40 (BB: 1.17, CB: 0.23 ).
+Change. ETH:-0.0400000, BTC: 0.0012965
+[2019-02-10T22:23:23.059] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03226600%, Limits: 0.125%, 0.150%, 0.200%, Funds. ETH: 24.51 (BB: 9.70, CB :14.81, BTC: 1.40 (BB: 1.17, CB: 0.23 ).
+Change. ETH:0.0000000, BTC: 0.0000015
+[2019-02-10T22:23:35.258] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03226600%, Limits: 0.125%, 0.150%, 0.200%, Funds. ETH: 24.51 (BB: 9.74, CB :14.77, BTC: 1.40 (BB: 1.17, CB: 0.23 ).
+Change. ETH:0.0000000, BTC: 0.0000018
+[2019-02-10T22:24:05.597] [INFO] info - SELL LIMIT. Vol: 0.08, Binance Buy: 0.03226000%, Limits: 0.125%, 0.150%, 0.200%, Funds. ETH: 24.51 (BB: 9.82, CB :14.69, BTC: 1.40 (BB: 1.17, CB: 0.23 ).
+Change. ETH:0.0000000, BTC: 0.0000037
+[2019-02-10T22:24:43.020] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03226000%, Limits: 0.125%, 0.150%, 0.200%, Funds. ETH: 24.55 (BB: 9.86, CB :14.69, BTC: 1.40 (BB: 1.17, CB: 0.23 ).
+Change. ETH:0.0400000, BTC: -0.0012904
+[2019-02-10T22:25:09.830] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03226000%, Limits: 0.125%, 0.150%, 0.200%, Funds. ETH: 24.51 (BB: 9.90, CB :14.61, BTC: 1.40 (BB: 1.17, CB: 0.24 ).
+Change. ETH:-0.0400000, BTC: 0.0012940
+[2019-02-10T22:57:14.709] [INFO] info - SELL LIMIT. Vol: 0.04, Binance Buy: 0.03219400%, Limits: 0.125%, 0.150%, 0.200%, Funds. ETH: 24.50 (BB: 9.94, CB :14.56, BTC: 1.40 (BB: 1.16, CB: 0.24 ).
+Change. ETH:-0.0100000, BTC: 0.0003251
